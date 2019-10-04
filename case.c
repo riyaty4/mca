@@ -1,6 +1,6 @@
-#include<stdio.h>
+#include<stdio.h> //Header files
 #include<conio.h>
-int main()
+int main()   //Main function
 {
 	char ch;
 	printf("press any key ");
